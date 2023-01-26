@@ -1,6 +1,6 @@
 class demo{
 
- public void main(){
+ public void m(){
 
    //code
 }
